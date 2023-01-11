@@ -8,9 +8,11 @@ Execício de React, exibe uma lista de informações cadastradas no localstorage
 
 ## :books: Funcionalidades
 * View<br>
-[x]Exibe uma lista de informações sobre os clientes cadastrados no localstorage(card_cliente)<br>
-[x]Opção de editar item<br>
-[x]Opção de excluir item<br>
+[x] Exibe uma lista de informações sobre os clientes cadastrados no localstorage(card_cliente)<br>
+[x] Opção de editar item<br>
+[x] No cadastro, nãoi permitir e-mail's já cadastrados<br>
+[x] Opção de excluir item<br>
+[x] Opção de entrada de telefone somente números, com a máscara(xx)xxxxx-xxxx<br>
 
 
 ## :wrench: Tecnologias utilizadas
@@ -35,4 +37,8 @@ yarn dev
 Instalando a biblioteca Chakra-ui, emotion, framer-motion e chakra-icons
 ```
 yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion @chakra-ui/icons
+```
+Instalando a biblioteca react-input-mask
+```
+yarn add react-input-mask
 ```
