@@ -1,7 +1,7 @@
 # Exercício de React
 <h1 align="center">:file_cabinet: Infor List</h1>
 
-<img align="center" title="Printscreen" src="" />
+<img align="center" title="Printscreen" src="https://github.com/ur4sh1/Infor-List/blob/main/public/2023-01-10.png" />
 
 ## :memo: Descrição
 Execício de React, exibe uma lista de informações cadastradas no localstorage, com funções de adicionar, editar e excluir<br>
